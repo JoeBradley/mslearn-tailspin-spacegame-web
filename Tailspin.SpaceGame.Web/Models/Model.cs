@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 
+// Change 1
 namespace TailSpin.SpaceGame.Web.Models
 {
     /// <summary>
